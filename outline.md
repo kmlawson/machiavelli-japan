@@ -5,9 +5,13 @@
 * Machiavelli in Asia
     * The search for the East Asian equivalent of Machiavelli
         * China
+            * Han Fei
+            * 荻生徂徠
         * Japan
         * Korea
     * Introduction of Machiavelli to Asia
+        * Translations
+        * 権謀術数論
 * Hani Goro and Machiavelli
     * on Hani Goro
     * Hani Goro and Machiavelli
@@ -27,5 +31,6 @@
 * Read over the Chinese articles on Machiavelli
 * Notes on Machiavelli scholarship from international perspective
 * Look into Machiavelli and Marxism - relevant for Hani Goro material
+
 
 
