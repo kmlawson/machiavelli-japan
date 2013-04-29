@@ -11,6 +11,7 @@
         * Korea
     * Introduction of Machiavelli to Asia
         * Translations
+        * 1906 first translation of discourses into Japanese by Hayashi - future foreign minister
         * 権謀術数論
 * Hani Goro and Machiavelli
     * on Hani Goro
