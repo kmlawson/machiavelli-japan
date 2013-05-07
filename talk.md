@@ -1,6 +1,10 @@
 Translation and Uses of Machiavelli in East Asia
 ------------------------------------------------
 
+**These are some notes, not a paper, or the raw presentation for the May, 2013 presentation on Machiavelli in East Asia. These notes are posted here in case they are of use to anyone doing research in this area. Other raw files and notes will be posted to: https://github.com/kmlawson/machiavelli-japan**
+
+Konrad M. Lawson (http://muninn.net/)
+
 ### Japanese Translations
 
 -   Translations of Machiavelli into Japanese began relatively early.
