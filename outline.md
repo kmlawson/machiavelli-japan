@@ -3,16 +3,16 @@
 ## Outline:
 
 * Machiavelli in Asia
-    * The search for the East Asian equivalent of Machiavelli
-        * China
-            * Han Fei
-            * 荻生徂徠
-        * Japan
-        * Korea
-    * Introduction of Machiavelli to Asia
-        * Translations
-        * 1906 first translation of discourses into Japanese by Hayashi - future foreign minister
-        * 権謀術数論
+* Introduction of Machiavelli to Asia
+    * Translations
+    * 1906 first translation of discourses into Japanese by Hayashi - future foreign minister
+    * 権謀術数論
+* The search for the East Asian equivalent of Machiavelli
+    * Japan
+    * China
+        * Han Fei
+        * 荻生徂徠
+    * Korea
 * Hani Goro and Machiavelli
     * on Hani Goro
     * Hani Goro and Machiavelli
@@ -26,6 +26,10 @@
 * Latter has more scholarly merit but may be of less interest to audience
 
 ## To do:
+
+* http://kindai.ndl.go.jp/info:ndljp/pid/1459137
+	and here:
+	http://kindai.ndl.go.jp/info:ndljp/pid/1270016
 
 * Earliest CJK translations of Machiavelli
 * Read Hani Goro texts
